@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DentalLabManagement",
+    "\\DentalLabManagement.BusinessTier",
+    "\\DentalLabManagement.BusinessTier\\Enums",
+    "\\DentalLabManagement.BusinessTier\\Payload",
+    "\\DentalLabManagement.BusinessTier\\Payload\\Account",
+    "\\DentalLabManagement.BusinessTier\\Payload\\Category",
+    "\\DentalLabManagement.BusinessTier\\Services",
+    "\\DentalLabManagement.BusinessTier\\Services\\Interfaces",
+    "\\DentalLabManagement\\Middlewares"
+  ],
+  "SelectedNode": "\\DentalLabManagement.BusinessTier\\Services\\Interfaces\\IDentalService.cs",
+  "PreviewInSolutionExplorer": false
+}
