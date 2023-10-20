@@ -28,3 +28,18 @@ D:\FU\SWD392_Dental Lab\DentalLabManagement\DentalLabManagement.BusinessTier\obj
 D:\FU\SWD392_Dental Lab\DentalLabManagement\DentalLabManagement.BusinessTier\obj\Debug\net6.0\refint\DentalLabManagement.BusinessTier.dll
 D:\FU\SWD392_Dental Lab\DentalLabManagement\DentalLabManagement.BusinessTier\obj\Debug\net6.0\DentalLabManagement.BusinessTier.pdb
 D:\FU\SWD392_Dental Lab\DentalLabManagement\DentalLabManagement.BusinessTier\obj\Debug\net6.0\ref\DentalLabManagement.BusinessTier.dll
+C:\Users\duy48\Desktop\DentalLab\DentalLabManagement\DentalLabManagement.BusinessTier\bin\Debug\net6.0\DentalLabManagement.BusinessTier.deps.json
+C:\Users\duy48\Desktop\DentalLab\DentalLabManagement\DentalLabManagement.BusinessTier\bin\Debug\net6.0\DentalLabManagement.BusinessTier.dll
+C:\Users\duy48\Desktop\DentalLab\DentalLabManagement\DentalLabManagement.BusinessTier\bin\Debug\net6.0\DentalLabManagement.BusinessTier.pdb
+C:\Users\duy48\Desktop\DentalLab\DentalLabManagement\DentalLabManagement.BusinessTier\bin\Debug\net6.0\DentalLabManagement.DataTier.dll
+C:\Users\duy48\Desktop\DentalLab\DentalLabManagement\DentalLabManagement.BusinessTier\bin\Debug\net6.0\DentalLabManagement.DataTier.pdb
+C:\Users\duy48\Desktop\DentalLab\DentalLabManagement\DentalLabManagement.BusinessTier\obj\Debug\net6.0\DentalLabManagement.BusinessTier.csproj.AssemblyReference.cache
+C:\Users\duy48\Desktop\DentalLab\DentalLabManagement\DentalLabManagement.BusinessTier\obj\Debug\net6.0\DentalLabManagement.BusinessTier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duy48\Desktop\DentalLab\DentalLabManagement\DentalLabManagement.BusinessTier\obj\Debug\net6.0\DentalLabManagement.BusinessTier.AssemblyInfoInputs.cache
+C:\Users\duy48\Desktop\DentalLab\DentalLabManagement\DentalLabManagement.BusinessTier\obj\Debug\net6.0\DentalLabManagement.BusinessTier.AssemblyInfo.cs
+C:\Users\duy48\Desktop\DentalLab\DentalLabManagement\DentalLabManagement.BusinessTier\obj\Debug\net6.0\DentalLabManagement.BusinessTier.csproj.CoreCompileInputs.cache
+C:\Users\duy48\Desktop\DentalLab\DentalLabManagement\DentalLabManagement.BusinessTier\obj\Debug\net6.0\DentalLabManagement.BusinessTier.csproj.CopyComplete
+C:\Users\duy48\Desktop\DentalLab\DentalLabManagement\DentalLabManagement.BusinessTier\obj\Debug\net6.0\DentalLabManagement.BusinessTier.dll
+C:\Users\duy48\Desktop\DentalLab\DentalLabManagement\DentalLabManagement.BusinessTier\obj\Debug\net6.0\refint\DentalLabManagement.BusinessTier.dll
+C:\Users\duy48\Desktop\DentalLab\DentalLabManagement\DentalLabManagement.BusinessTier\obj\Debug\net6.0\DentalLabManagement.BusinessTier.pdb
+C:\Users\duy48\Desktop\DentalLab\DentalLabManagement\DentalLabManagement.BusinessTier\obj\Debug\net6.0\ref\DentalLabManagement.BusinessTier.dll

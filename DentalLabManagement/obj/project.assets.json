@@ -3137,19 +3137,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\duy48\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FU\\SWD392_Dental Lab\\DentalLabManagement\\DentalLabManagement\\DentalLabManagement.API.csproj",
+      "projectUniqueName": "C:\\Users\\duy48\\Desktop\\DentalLab\\DentalLabManagement\\DentalLabManagement\\DentalLabManagement.API.csproj",
       "projectName": "DentalLabManagement.API",
-      "projectPath": "D:\\FU\\SWD392_Dental Lab\\DentalLabManagement\\DentalLabManagement\\DentalLabManagement.API.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\FU\\SWD392_Dental Lab\\DentalLabManagement\\DentalLabManagement\\obj\\",
+      "projectPath": "C:\\Users\\duy48\\Desktop\\DentalLab\\DentalLabManagement\\DentalLabManagement\\DentalLabManagement.API.csproj",
+      "packagesPath": "C:\\Users\\duy48\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\duy48\\Desktop\\DentalLab\\DentalLabManagement\\DentalLabManagement\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\duy48\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3163,11 +3168,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\FU\\SWD392_Dental Lab\\DentalLabManagement\\DentalLabManagement.BusinessTier\\DentalLabManagement.BusinessTier.csproj": {
-              "projectPath": "D:\\FU\\SWD392_Dental Lab\\DentalLabManagement\\DentalLabManagement.BusinessTier\\DentalLabManagement.BusinessTier.csproj"
+            "C:\\Users\\duy48\\Desktop\\DentalLab\\DentalLabManagement\\DentalLabManagement.BusinessTier\\DentalLabManagement.BusinessTier.csproj": {
+              "projectPath": "C:\\Users\\duy48\\Desktop\\DentalLab\\DentalLabManagement\\DentalLabManagement.BusinessTier\\DentalLabManagement.BusinessTier.csproj"
             },
-            "D:\\FU\\SWD392_Dental Lab\\DentalLabManagement\\DentalLabManagement.DataTier\\DentalLabManagement.DataTier.csproj": {
-              "projectPath": "D:\\FU\\SWD392_Dental Lab\\DentalLabManagement\\DentalLabManagement.DataTier\\DentalLabManagement.DataTier.csproj"
+            "C:\\Users\\duy48\\Desktop\\DentalLab\\DentalLabManagement\\DentalLabManagement.DataTier\\DentalLabManagement.DataTier.csproj": {
+              "projectPath": "C:\\Users\\duy48\\Desktop\\DentalLab\\DentalLabManagement\\DentalLabManagement.DataTier\\DentalLabManagement.DataTier.csproj"
             }
           }
         }
@@ -3224,7 +3229,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

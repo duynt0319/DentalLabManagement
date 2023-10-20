@@ -26,3 +26,17 @@ D:\FU\SWD392_Dental Lab\git clone\DentalLabManagement\DentalLabManagement.DataTi
 D:\FU\SWD392_Dental Lab\git clone\DentalLabManagement\DentalLabManagement.DataTier\obj\Debug\net6.0\DentalLabManagement.DataTier.pdb
 D:\FU\SWD392_Dental Lab\git clone\DentalLabManagement\DentalLabManagement.DataTier\obj\Debug\net6.0\DentalLabManagement.DataTier.genruntimeconfig.cache
 D:\FU\SWD392_Dental Lab\git clone\DentalLabManagement\DentalLabManagement.DataTier\obj\Debug\net6.0\ref\DentalLabManagement.DataTier.dll
+C:\Users\duy48\Desktop\DentalLab\DentalLabManagement\DentalLabManagement.DataTier\bin\Debug\net6.0\DentalLabManagement.DataTier.deps.json
+C:\Users\duy48\Desktop\DentalLab\DentalLabManagement\DentalLabManagement.DataTier\bin\Debug\net6.0\DentalLabManagement.DataTier.runtimeconfig.json
+C:\Users\duy48\Desktop\DentalLab\DentalLabManagement\DentalLabManagement.DataTier\bin\Debug\net6.0\DentalLabManagement.DataTier.dll
+C:\Users\duy48\Desktop\DentalLab\DentalLabManagement\DentalLabManagement.DataTier\bin\Debug\net6.0\DentalLabManagement.DataTier.pdb
+C:\Users\duy48\Desktop\DentalLab\DentalLabManagement\DentalLabManagement.DataTier\obj\Debug\net6.0\DentalLabManagement.DataTier.csproj.AssemblyReference.cache
+C:\Users\duy48\Desktop\DentalLab\DentalLabManagement\DentalLabManagement.DataTier\obj\Debug\net6.0\DentalLabManagement.DataTier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duy48\Desktop\DentalLab\DentalLabManagement\DentalLabManagement.DataTier\obj\Debug\net6.0\DentalLabManagement.DataTier.AssemblyInfoInputs.cache
+C:\Users\duy48\Desktop\DentalLab\DentalLabManagement\DentalLabManagement.DataTier\obj\Debug\net6.0\DentalLabManagement.DataTier.AssemblyInfo.cs
+C:\Users\duy48\Desktop\DentalLab\DentalLabManagement\DentalLabManagement.DataTier\obj\Debug\net6.0\DentalLabManagement.DataTier.csproj.CoreCompileInputs.cache
+C:\Users\duy48\Desktop\DentalLab\DentalLabManagement\DentalLabManagement.DataTier\obj\Debug\net6.0\DentalLabManagement.DataTier.dll
+C:\Users\duy48\Desktop\DentalLab\DentalLabManagement\DentalLabManagement.DataTier\obj\Debug\net6.0\refint\DentalLabManagement.DataTier.dll
+C:\Users\duy48\Desktop\DentalLab\DentalLabManagement\DentalLabManagement.DataTier\obj\Debug\net6.0\DentalLabManagement.DataTier.pdb
+C:\Users\duy48\Desktop\DentalLab\DentalLabManagement\DentalLabManagement.DataTier\obj\Debug\net6.0\DentalLabManagement.DataTier.genruntimeconfig.cache
+C:\Users\duy48\Desktop\DentalLab\DentalLabManagement\DentalLabManagement.DataTier\obj\Debug\net6.0\ref\DentalLabManagement.DataTier.dll
